@@ -1,4 +1,4 @@
-module github.com/scroot/go-plist
+module go-plist
 
 go 1.12
 
